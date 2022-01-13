@@ -8,3 +8,4 @@
 - https://github.com/wimlds-trojmiasto/detect-waste/tree/main
 
 Testing
+AWS project
