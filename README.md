@@ -10,3 +10,13 @@
 Testing
 
 *AWS project*
+
+## Git Commands
+
+
+Check status: git status
+Pull Changes from GitHub: git pull
+
+Add Files: git add . 
+Commit Changes: git commit -a -m 'MESSAGE'
+Push Changes: git push
